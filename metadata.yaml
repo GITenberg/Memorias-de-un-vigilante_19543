@@ -1,0 +1,32 @@
+_repo: Memorias-de-un-vigilante_19543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alvarez, José S. (José Sixto)
+    aliases:
+    - Alvarez, Jose Sixto
+    - Alvarez, José Sixto
+    - Mocho, Fray
+    birthdate: 1858
+    deathdate: 1903
+    gutenberg_agent_id: '8732'
+    url: http://www.gutenberg.org/2009/agents/8732
+    wikipedia: http://es.wikipedia.org/wiki/Fray_Mocho
+description: ''
+gutenberg_issued: '2006-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19543'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Argentina -- Buenos Aires'
+- !lcc 'PQ'
+- !lcsh 'Crime -- Argentina -- Buenos Aires'
+title: Memorias de un vigilante
+url: http://www.gutenberg.org/ebooks/19543
